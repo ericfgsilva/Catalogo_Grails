@@ -11,6 +11,5 @@ class Fabricante {
 	Set sistemas = new HashSet()
 	
 	String toString() {"${this.class.name} : $id"}
-    }
 	
 }
