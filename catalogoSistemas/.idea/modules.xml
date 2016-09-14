@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/catalogoSistemas.iml" filepath="$PROJECT_DIR$/.idea/modules/catalogoSistemas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/catalogoSistemas_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/catalogoSistemas_integrationTest.iml" group="catalogoSistemas" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/catalogoSistemas_main.iml" filepath="$PROJECT_DIR$/.idea/modules/catalogoSistemas_main.iml" group="catalogoSistemas" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/catalogoSistemas_test.iml" filepath="$PROJECT_DIR$/.idea/modules/catalogoSistemas_test.iml" group="catalogoSistemas" />
+      <module fileurl="file://$PROJECT_DIR$/grails-app/grails-app.iml" filepath="$PROJECT_DIR$/grails-app/grails-app.iml" />
+    </modules>
+  </component>
+</project>
